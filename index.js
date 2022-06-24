@@ -1,4 +1,3 @@
-import * as THREE from "three";
 import { calcBetaOffset, calcGammaOffset } from "./angleCalcs.js";
 
 const scene = new THREE.Scene();
